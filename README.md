@@ -13,10 +13,6 @@ Computer Science student focused on backend development with Java. Interested in
 ---
 
 ## Technical Ecosystem
-
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
-
-### Core Competencies & Core Stack
 <img src="https://img.shields.io/badge/[Technology_1]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Technology_2]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Technology_3]-20232A?style=for-the-badge" />
 
 ### Tooling, Infrastructure & Ecosystem
@@ -25,8 +21,6 @@ Computer Science student focused on backend development with Java. Interested in
 ---
 
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
